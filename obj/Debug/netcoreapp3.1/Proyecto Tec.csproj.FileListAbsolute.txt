@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\Proyecto Tec\bin\Debug\netcoreapp3.1\Proyecto Tec.exe
+C:\Users\Acer\source\repos\Proyecto Tec\bin\Debug\netcoreapp3.1\Proyecto Tec.deps.json
+C:\Users\Acer\source\repos\Proyecto Tec\bin\Debug\netcoreapp3.1\Proyecto Tec.runtimeconfig.json
+C:\Users\Acer\source\repos\Proyecto Tec\bin\Debug\netcoreapp3.1\Proyecto Tec.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Proyecto Tec\bin\Debug\netcoreapp3.1\Proyecto Tec.dll
+C:\Users\Acer\source\repos\Proyecto Tec\bin\Debug\netcoreapp3.1\Proyecto Tec.pdb
+C:\Users\Acer\source\repos\Proyecto Tec\obj\Debug\netcoreapp3.1\Proyecto Tec.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Proyecto Tec\obj\Debug\netcoreapp3.1\Proyecto_Tec.Form1.resources
+C:\Users\Acer\source\repos\Proyecto Tec\obj\Debug\netcoreapp3.1\Proyecto_Tec.Properties.Resources.resources
+C:\Users\Acer\source\repos\Proyecto Tec\obj\Debug\netcoreapp3.1\Proyecto Tec.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Proyecto Tec\obj\Debug\netcoreapp3.1\Proyecto Tec.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Proyecto Tec\obj\Debug\netcoreapp3.1\Proyecto Tec.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Proyecto Tec\obj\Debug\netcoreapp3.1\Proyecto Tec.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Proyecto Tec\obj\Debug\netcoreapp3.1\Proyecto Tec.dll
+C:\Users\Acer\source\repos\Proyecto Tec\obj\Debug\netcoreapp3.1\Proyecto Tec.pdb
+C:\Users\Acer\source\repos\Proyecto Tec\obj\Debug\netcoreapp3.1\Proyecto Tec.genruntimeconfig.cache
